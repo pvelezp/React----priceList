@@ -1,0 +1,15 @@
+.blue{ 
+    color: rgb(58, 58, 228);
+    font-weight: 300;
+    font-size: 1.2rem;
+      margin: 2%;
+      font-family: 'Josefin Slab', serif;
+}
+
+.item {
+    color: #ccc;
+    font-weight: 300;
+  font-size: 1.2rem;
+    margin: 2%;
+    font-family: 'Josefin Slab', serif;
+}
